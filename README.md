@@ -8,4 +8,6 @@ Colors, logo, favicon etc.
 
 ## Fonts (by Google Fonts)
 
+[![](https://raw.githubusercontent.com/happywords/design/master/font-bree-serif.png)](https://fonts.google.com/specimen/Bree+Serif)
+
 [Bree Serif](https://fonts.google.com/specimen/Bree+Serif)
