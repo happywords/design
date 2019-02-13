@@ -12,9 +12,14 @@ Colors, logo, favicon etc.
 [![](https://raw.githubusercontent.com/happywords/design/master/colors.png)](https://coolors.co/5bc0eb-fde74c-9bc53d-c3423f-211a1e)
 #5bc0eb #fde74c #9bc53d #c3423f #211a1e
 
-## Texture (by http://bg.siteorigin.com/)
+#e7edf0 - bg color
+
+## Texture (by bg.siteorigin.com)
 
 [![](https://raw.githubusercontent.com/happywords/design/master/bg%20texture.png)](https://raw.githubusercontent.com/happywords/design/master/bg%20texture.png)
+
+Color: #e7edf0
+
 
 ## Fonts (by Google Fonts)
 
