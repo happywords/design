@@ -27,3 +27,7 @@ button, .btn, input[type="submit"], input[type="reset"], input[type="button"], .
 	width: 8px;
 	top: 6px;
 }
+
+.read-more a:hover, .author-box a:hover, .page-content a:hover, .entry-content a:hover, .widget_tag_cloud .tagcloud a:hover:before, .entry-tags .tag-links a:hover:before, .content-loop .entry-title a:hover, .content-list .entry-title a:hover, .content-grid .entry-title a:hover, article.hentry .edit-link a:hover, .site-footer .widget ul li a:hover, .comment-content a:hover {
+	color: #c3423f !important;
+}
