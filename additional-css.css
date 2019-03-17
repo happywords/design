@@ -1,0 +1,46 @@
+body.post-template-default img.attachment-single_thumb.size-single_thumb.wp-post-image {
+	display: none;
+}
+
+span.read-more {
+	margin-left: 10px;
+}
+
+span.entry-author a,
+span.entry-date {
+	text-transform: initial;
+}
+
+div#site-bottom {
+	background: #211a1e;	
+}
+
+button, .btn, input[type="submit"], input[type="reset"], input[type="button"], .entry-category a, .pagination .prev:hover, .pagination .next:hover, #back-top a span {
+	background-color: #5bc0eb !important;
+}
+
+#back-top a:hover span, .bx-wrapper .bx-pager.bx-default-pager a:hover, .bx-wrapper .bx-pager.bx-default-pager a.active, .bx-wrapper .bx-pager.bx-default-pager a:focus, .pagination .page-numbers:hover, .pagination .page-numbers.current, .sidebar .widget ul li:before, .widget_newsletter input[type="submit"], .widget_newsletter input[type="button"], .widget_newsletter button {
+	background-color: #c3423f !important;
+}
+.sidebar .widget ul > li:before {
+	height: 8px;
+	width: 8px;
+	top: 6px;
+}
+
+.read-more a:hover, .author-box a:hover, .page-content a:hover, .entry-content a:hover, .widget_tag_cloud .tagcloud a:hover:before, .entry-tags .tag-links a:hover:before, .content-loop .entry-title a:hover, .content-list .entry-title a:hover, .content-grid .entry-title a:hover, article.hentry .edit-link a:hover, .site-footer .widget ul li a:hover, .comment-content a:hover {
+	color: #c3423f !important;
+}
+
+.slicknav_nav, .header-search, .sf-menu li a:before {
+	border-color: #c3423f !important;
+}
+
+.content-loop .hentry, .content-list .hentry, .content-grid .hentry {
+	border-bottom: 5px solid #d9e8b8;
+}
+
+main#main {
+-webkit-box-shadow: 0px 3px 14px 4px rgba(33,26,30,0.07); 
+box-shadow: 0px 3px 14px 4px rgba(33,26,30,0.07);
+}
