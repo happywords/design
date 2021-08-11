@@ -16,13 +16,6 @@ TODO: UPDATE
 
 #e7edf0 - bg color
 
-## Texture (by bg.siteorigin.com)
-
-[![](https://raw.githubusercontent.com/happywords/design/master/bg%20texture.png)](https://raw.githubusercontent.com/happywords/design/master/bg%20texture.png)
-
-Color: #e7edf0
-
-
 ## Fonts (by Google Fonts)
 
 [Style Script](https://fonts.google.com/specimen/Style+Script)
