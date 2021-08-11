@@ -25,6 +25,6 @@ Color: #e7edf0
 
 ## Fonts (by Google Fonts)
 
-[![](https://raw.githubusercontent.com/happywords/design/master/font-bree-serif-1.png)](https://fonts.google.com/specimen/Bree+Serif)
+[Style Script](https://fonts.google.com/specimen/Style+Script)
 
-[Bree Serif](https://fonts.google.com/specimen/Bree+Serif)
+[Raleway](https://fonts.google.com/specimen/Raleway)
