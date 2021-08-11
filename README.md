@@ -9,12 +9,9 @@ TODO: UPDATE
 ## Favicon
 [![](https://raw.githubusercontent.com/happywords/design/master/favicon.png)](https://raw.githubusercontent.com/happywords/design/master/favicon.png)
 
-## Colors (by coolors.co)
+## Colors
 
-[![](https://raw.githubusercontent.com/happywords/design/master/colors.png)](https://coolors.co/5bc0eb-fde74c-9bc53d-c3423f-211a1e)
-#5bc0eb #fde74c #9bc53d #c3423f #211a1e
-
-#e7edf0 - bg color
+[Happy Hues Pallete](https://www.happyhues.co/palettes/14)
 
 ## Fonts (by Google Fonts)
 
